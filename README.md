@@ -49,7 +49,7 @@
 **Clone o repo e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/ufabcplanner/ufabcplanner-frontend.git && cd UFABCplanner
+$ git clone https://github.com/ufabcplanner/ufabcplanner-frontend.git && cd ufabcplanner-frontend
 ```
 
 **Siga os passos abaixo**
@@ -63,7 +63,7 @@ _Obs.: Antes de continuar, verifique se a API foi iniciada_
 $ cd ufabc_planner-frontend
 
 # Instale as dependências
-$ yarn
+$ yarn install
 
 # Inicie o client
 $ yarn start
